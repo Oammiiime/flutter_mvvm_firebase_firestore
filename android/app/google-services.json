@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "305655972412",
+    "firebase_url": "https://fitness-473f5.firebaseio.com",
+    "project_id": "fitness-473f5",
+    "storage_bucket": "fitness-473f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305655972412:android:b1386221fe20f3b1",
+        "android_client_info": {
+          "package_name": "com.techseri.fitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305655972412-77mbu2jkuvgkplo90ung9t394i54r876.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf6xir8cBATkY9unZbT67i0-uHJDyM-d4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
