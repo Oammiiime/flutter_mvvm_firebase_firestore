@@ -1,6 +1,6 @@
 # fitness
 
-MVVM in Flutter using ScopedModel.
+MVVM in Flutter using Firebase firestore.
 
 ## Getting Started
 
