@@ -6,4 +6,10 @@ class BodybuildingProvider {
         .collection('bodybuilding-posture').getDocuments();
     return querySnapshot;
   }
+
+  Future<QuerySnapshot> getAllBodybuildingListPosture(String id) async {
+    QuerySnapshot  querySnapshot = await Firestore.instance
+        .collection('exercise-posture').where("type",isEqualTo: id).getDocuments();
+    return querySnapshot;
+  }
 }

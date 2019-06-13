@@ -8,11 +8,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'ฟิตเนส',
+      title: 'Finess',
       theme: ThemeData(
         primarySwatch: Colors.red,
       ),
-      home: BodybuildingPostureView(title: 'ฟิตเนส'),
+      home: BodybuildingPostureView(title: 'Finess'),
     );
   }
 }
