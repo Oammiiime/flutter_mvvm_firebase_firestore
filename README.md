@@ -1,6 +1,6 @@
 # fitness
 
-Fitness application.
+MVVM in Flutter using ScopedModel.
 
 ## Getting Started
 
